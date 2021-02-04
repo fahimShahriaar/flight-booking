@@ -59,5 +59,5 @@ function afterPurchaseDisplay() {
 
 // reset button and done button handling
 function handlingFinishingButton() {
-    location.href = "https://fem97.github.io/flight-booking/index.html";
+    location.href = "https://fem97.github.io/flight-booking/";
 }
